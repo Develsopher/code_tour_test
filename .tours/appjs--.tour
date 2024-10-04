@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "app.js에 대한 내용",
+  "steps": [
+    {
+      "title": "ㅎㅇㅎㅇㅎ",
+      "description": ""
+    },
+    {
+      "file": "app.js",
+      "description": "ㅎㅇㅎㅇ",
+      "line": 1
+    },
+    {
+      "file": "index.html",
+      "description": "누구세요?",
+      "line": 11
+    }
+  ],
+  "description": "여기는 설명하는거"
+}

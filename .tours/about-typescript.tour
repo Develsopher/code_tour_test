@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "about typescript",
+  "steps": [
+    {
+      "file": "test.ts",
+      "description": "is this test?",
+      "line": 1
+    }
+  ]
+}
